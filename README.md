@@ -11,8 +11,7 @@
 
 
 ##  My status:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mssj-11&theme=dark&hide_border=true&locale=es)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mssj-11&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
 ![mssj-11 GitHub stats](https://github-readme-stats.vercel.app/api?username=mssj-11&show_icons=true&theme=tokyonight)
