@@ -24,3 +24,12 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mssj-11&exclude_repo=github-readme-stats,mssj-11.github.io)](https://github.com/mssj-11/github-readme-stats)
+
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mssj-11&langs_count=8)](https://github.com/mssj-11/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mssj-11&layout=compact)](https://github.com/mssj-11/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mssj-11&hide_progress=true)](https://github.com/mssj-11/github-readme-stats)
