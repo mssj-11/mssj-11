@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="center">A passionate about programming</h3>
+<h3 align="center">A passionate about programming 💻💙</h3>
+<h3 align="center">I enjoy listening to music, especially rock 🤘🎸</h3>
+<h3 align="center">I really like video games 🎮🕹️</h3>
+<h3 align="center">I enjoy watching series, movies, and anime in my free time 📽️📺</h3>
+<h3 align="center">I really like sports, especially soccer ⚽</h3>
+<h3 align="center">Sometimes I draw 🖼️🖌️🎨</h3>
+<h3 align="center">Occasionally, I read books 📖</h3>
 
 
 <h2 align="left">SKILLS</h2>
