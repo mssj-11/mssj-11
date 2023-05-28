@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
+<h2 align="left">I studied Computer Systems Engineering 💻</h2>
 <h3 align="left">A passionate about programming 💻💙</h3>
 <h3 align="left">I enjoy listening to music, especially rock 🤘🎸</h3>
 <h3 align="left">I really like video games 🎮🕹️</h3>
