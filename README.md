@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
-<p aling="center"><img src="https://media.tenor.com/hSL--HaaLEMAAAAC/hello-pikachu.gif"></p>
+<div align="center"><img src="https://media.tenor.com/hSL--HaaLEMAAAAC/hello-pikachu.gif"></div>
 <h2 align="left">I studied Computer Systems Engineering 💻</h2>
 <h3 align="left">A passionate about programming 💻💙</h3>
 <h3 align="left">I enjoy listening to music, especially rock 🤘🎸</h3>
