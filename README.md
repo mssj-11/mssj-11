@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
+<p aling="center"><img src="https://media.tenor.com/hSL--HaaLEMAAAAC/hello-pikachu.gif"></p>
 <h2 align="left">I studied Computer Systems Engineering 💻</h2>
 <h3 align="left">A passionate about programming 💻💙</h3>
 <h3 align="left">I enjoy listening to music, especially rock 🤘🎸</h3>
@@ -9,7 +10,7 @@
 <h3 align="left">Occasionally, I read books 📖</h3>
 
 
-<h2 align="left">SKILLS</h2>
+<h2 align="left">MY SKILLS</h2>
 <p align="left">
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="80" height="80"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/> </a> 
@@ -67,5 +68,3 @@
 </br>
  
 </div>
-
-![Snake animation](https://github.com/mssj-11/mssj-11/blob/output/github-contribution-grid-snake.svg)
