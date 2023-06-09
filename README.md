@@ -56,7 +56,7 @@
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mssj-11&theme=dark&hide_border=true)](https://git.io/streak-stats)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mssj-11&theme=react-dark)](https://github.com/mssj-11/github-readme-activity-graph)
+
 
 
 ## CONTACT 
