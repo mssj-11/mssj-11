@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mike</h1>
-<div align="center"><img src="https://media.tenor.com/hSL--HaaLEMAAAAC/hello-pikachu.gif"></div>
+<div align="center"><img src="https://gifdb.com/images/high/programming-coding-digital-marketing-b63zccx04i4luhh9.gif"></div>
 <h2 align="left">ABOUT ME</h2>
 <h3 align="left">A passionate about programming 💻💙</h3>
 <h3 align="left">I enjoy listening to music, especially rock 🤘🎸</h3>
