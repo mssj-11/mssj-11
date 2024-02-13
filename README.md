@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mike</h1>
 <div align="center"><img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"></div>
-<h2 align="left">ABOUT ME</h2>
-<h3 align="left">A passionate about programming 💻💙</h3>
-<h3 align="left">I enjoy listening to music, especially rock 🤘🎸</h3>
-<h3 align="left">I really like video games 🎮🕹️</h3>
-<h3 align="left">I enjoy watching series, movies and anime in my free time 📽️📺</h3>
-<h3 align="left">I really like sports, especially soccer ⚽</h3>
-<h3 align="left">Sometimes I draw 🖼️🖌️🎨</h3>
-<h3 align="left">Occasionally, I read books 📖</h3>
+
 
 
 <h2 align="left">MY SKILLS</h2>
