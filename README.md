@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mike | Systems Engineer 💻</h1>
+
+#  🚀 Passionate about technology and innovation, dedicated to creating efficient and scalable solutions. 💡
 <div align="center"><img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"></div>
 
 
@@ -15,7 +17,7 @@
 
 
 
-## CONTACT 
+# 🔗 CONNECT WITH ME:
 <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto: "><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
